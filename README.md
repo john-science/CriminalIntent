@@ -1,6 +1,7 @@
 # Criminal Intent
 
-> Learning Android starting with the Big Nerd Ranch Guide
+This is the main test app in the [Big Nerd Guide to Android Programming](https://www.bignerdranch.com/we-write/android-programming/).
 
-This is a fun starting app to learn to use Fragments and interacting with the rest of the OS, including the phone.
+## Notes
 
+I don't plan on documenting the entire app too thoroughly, since it has been published and documented extremely thoroughly. What follows are just so notes and points of reference.
