@@ -16,9 +16,8 @@ I don't plan on documenting the entire app, since it has been published and docu
  - [Intents](https://developer.android.com/guide/components/intents-filters.html)
  - [Activities](https://developer.android.com/guide/components/activities.html)
  - [Fragments](https://developer.android.com/guide/components/fragments.html)
- - Views
- - Widgets
- - Layout XML
+ - [Widgets](https://developer.android.com/guide/topics/appwidgets/index.html)
+ - [Layout XML](https://developer.android.com/guide/topics/ui/declaring-layout.html)
 
 ### Other Interesting Topics
 
